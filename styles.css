@@ -1,0 +1,32 @@
+body{
+    display: flex;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+}
+
+.toolbar{
+    display: flex;
+    flex-direction: column;
+}
+
+.toolbar-top{
+    display: flex;
+}
+
+
+.toolbar-headline{
+    display: flex;
+    flex-direction: column;
+    min-width: 100px;
+    flex: 1 1 0px;
+
+}
+
+.toolbar-container{
+    display: flex;
+}
+    
+
